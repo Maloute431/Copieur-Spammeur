@@ -1,6 +1,6 @@
 # Copieur-Spammeur
 
-#compilation
+# compilation
 
 ``pip install pyinstaller``
 
